@@ -35,6 +35,8 @@ html,body{
     width: 80%;
     max-width: 1920px;
     margin: 0 auto;
+    position: relative;
+
     /* background-color: red; */
     /* border: 1px solid red; */
      
@@ -46,7 +48,7 @@ html,body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
 
 }
 #nav img{
@@ -63,9 +65,37 @@ html,body{
 #nav a{
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 600;
     /* letter-spacing: 1px; */
     color: #fff;
     font-family: gilroy;
+}
+#hero{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0%,-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* height: 100px; */
+    /* background-color: red; */
+    position: absolute;
+    top: 50%;
+    left: 0;
+
+
+}
+#heroleft{
+
+    min-width: 50%;
+    /* height: 100px; */
+    background-color: green;
+}
+#heroright{
+
+    min-width: 25%;
+    /* height: 100px; */
+    background-color: rgb(36, 65, 208);
 }
