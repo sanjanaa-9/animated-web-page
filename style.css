@@ -2,6 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    font-family: gilroy
 }
 html,body{
 
@@ -13,21 +14,27 @@ html,body{
 
     width: 100%;
     height: 100vh;
-    background-color: black;
+ 
 }
 #back{
 
     width: 100%;
     height: 100vh;
-    /* background-color: rgb(3, 5, 38); */
+    
+}
+#back img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
 }
 #top{
+    pointer-events: none;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100vh;
-    background-color: #171717d8;
 
 }
 #workingarea{
@@ -63,13 +70,15 @@ html,body{
 }
 
 #nav a{
+    pointer-events: all;
+    position: relative;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 600;
     /* letter-spacing: 1px; */
     color: #fff;
-    font-family: gilroy;
+    
 }
 #hero{
     position: absolute;
@@ -91,11 +100,63 @@ html,body{
 
     min-width: 50%;
     /* height: 100px; */
-    background-color: green;
+    /* background-color: green; */
+}
+#heroleft .elem {
+    height: 9vw;
+    /* background-color: red; */
+    overflow: hidden;
+
+}
+#heroleft .elem h1 {
+    line-height: .9;
+     font-family: kajiro;
+     font-weight: 100;
+     font-size: 11vw;
+position: relative;
+     color: white;
+}
+#heroleft button{
+    pointer-events: all;
+    padding: .8vw 3vw;
+    font-size: 3vw;
+    font-family: kajiro;
+    position: relative;
+    margin-top: 2vw;
+
 }
 #heroright{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 17%;
+    color: #fff;
+    /* background-color: rgba(86, 192, 231, 0.769); */
 
-    min-width: 25%;
-    /* height: 100px; */
-    background-color: rgb(36, 65, 208);
+
+}
+#heroright p{
+    font-weight: 300;
+    font-size: 12px;
+    text-align: right;
+    position: relative;
+
+
+}
+#heroright #imagediv{
+    width: 100%;
+    height: 180px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-image: url(./img/img_808.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+#heroright p:nth-child(3){
+
+    margin-bottom: 100px;
+
 }
