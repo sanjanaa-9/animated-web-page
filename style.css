@@ -51,7 +51,7 @@ html,body{
 }
 #nav{
     width: 100%;
-    padding: 40px 0;
+    padding: 12px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -113,7 +113,7 @@ html,body{
      font-family: kajiro;
      font-weight: 100;
      font-size: 11vw;
-position: relative;
+    position: relative;
      color: white;
 }
 #heroleft button{
