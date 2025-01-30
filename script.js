@@ -1,9 +1,9 @@
-    var elems = document.querySelector(".elem");
+    var elems = document.querySelectorAll(".elem");
     elems.forEach(function(elem){
-    var h1s = elems.querySelectorAll("h1");
+    var h1s = elem.querySelectorAll("h1");
     var index = 0;
     var animating = false;
-    document.querySelector("main").addeventListener("click", function(){
+    document.querySelector("#main").addEventListener("click", function(){
         if(!animating){
             animating = true;
             gsap.to(h1s[index],{
@@ -14,11 +14,10 @@
                     gsap.set(this._targets[0],{top:"100%"});
                     animating = false;
                 }
-    
             });
-            index === h1s.lenght-1 ? (index = 0) : index++;
+            index === h1s.length-1 ? (index = 0) : index++;
             gsap.to(h1s[index],{
-                top: "-=100%",
+                top: "0%",
                 ease: Expo.easeInOut,
                 duration:1,
     
@@ -26,3 +25,4 @@
         }
     });
     });
+
