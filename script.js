@@ -29,3 +29,334 @@ Shery.imageEffect("#back", {
   });
 
  
+  import React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default Appimport React from 'react'
+
+const App = () => {
+  return (
+    <div className='h-screen w-screen bg-black text-3xl text-white text-center0'>
+      
+          <h1>hello its working</h1>
+    </div>
+  )
+}
+
+export default App
