@@ -28,3 +28,11 @@ Shery.imageEffect("#back", {
   gooey: true,
 });
 
+document.querySelector("#main")
+.addEventListener("click",function(){
+
+
+  
+  
+
+})
